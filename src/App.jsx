@@ -23,7 +23,7 @@ export const App = () => {
             <p>Busca los gatitos que quieras</p>
 
 
-            <button onClick={getDataCat}>buscar</button>
+            <button onClick={getDataCat}>buscar puto</button>
 
             <div>
                 {
